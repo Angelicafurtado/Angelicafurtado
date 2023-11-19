@@ -1,4 +1,5 @@
-### Hi there, I'm Angélica 👋
+Hello! welcome to my Github profile. 👋
+My name is Angélica
 
 <!--
 **Angelicafurtado/Angelicafurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
